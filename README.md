@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhijeet70044
 - 👀 I’m interested in Full Stack, DevOps, Cybersec
-- 🌱 I’m currently learning React
+- 🌱 I am currently working on Next.js project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
