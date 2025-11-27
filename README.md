@@ -15,7 +15,7 @@
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-abhijeetkumar-rx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijeetkumar-rx/)](https://www.linkedin.com/in/abhijeetkumar-rx/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Abhijeet70044-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Abhijeet70044/)](https://www.linkedin.com/in/abhijeetkumar-rx/) 
 
 
 ### 📈 Github Stats:
